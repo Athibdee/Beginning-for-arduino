@@ -18,5 +18,22 @@ My beginning blog with First time Arduino
 ก็สามารถเข้าไปที่โปรแกรม Arduino IDE ได้เลย                                         
 ![image](https://user-images.githubusercontent.com/109753614/199953915-65591d95-66d8-436f-a886-9d6b7f68829a.png)
 
+## การใช้งาน NODEMCU Esp32 ในโปรแกรม Arduino IDE
+ไปที่ File และกดไปที่ Preferences หรือกด Ctrl + Comma
+![image](https://user-images.githubusercontent.com/109753614/199955950-30015684-020a-46b0-8b9b-3f247cbe4d20.png)
+
+จากนั้น ไปที่ Additional Boards Manager URLs: แล้วกรอกค่านี้ลงไปในช่อง                             
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
+
+เมื่อกรอกเสร็จให้มำการ กดปุ่ม ok
+![image](https://user-images.githubusercontent.com/109753614/199956674-125acdcf-417b-481d-b5c2-5abca1fd4b37.png)
+#
+จากนั้นให้ไปที่ Tools > Board และเลือกที่ Boards Manager                                      
+![image](https://user-images.githubusercontent.com/109753614/199956939-0dabd064-9a21-425c-a17e-d814582d3ff3.png)                           
+ค้นหาคำว่า ESP จากนั้นก็ทำการโหลด Board ESP32 by Espressif Systems                                                     
+![image](https://user-images.githubusercontent.com/109753614/199957111-9f01f87b-9c10-4bba-9410-bb5eb490ae24.png)
+
+
+
 
 
