@@ -31,7 +31,8 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 จากนั้นให้ไปที่ Tools > Board และเลือกที่ Boards Manager                                      
 ![image](https://user-images.githubusercontent.com/109753614/199956939-0dabd064-9a21-425c-a17e-d814582d3ff3.png)                           
 ค้นหาคำว่า ESP จากนั้นก็ทำการโหลด Board ESP32 by Espressif Systems                                                     
-![image](https://user-images.githubusercontent.com/109753614/199957111-9f01f87b-9c10-4bba-9410-bb5eb490ae24.png)
+![image](https://user-images.githubusercontent.com/109753614/199957111-9f01f87b-9c10-4bba-9410-bb5eb490ae24.png)       
+<img width="796" alt="Screenshot 2565-11-11 at 21 55 22" src="https://user-images.githubusercontent.com/109753614/201365894-12ad1c16-3b3d-4655-a7d2-8628f38f4ed1.png">
 
 
 
