@@ -57,4 +57,7 @@ Connecting Matlab and ESP32 and process data in board to gui
 ![image](https://user-images.githubusercontent.com/109753614/201913200-228773af-4c4c-40eb-ae42-7467d33e90e8.png)
 
 #
+จากนั้นเราก็จะสามารถดูข้อมูลตัว Module ที่เราใช้ได้โดยคลิก digital pin ที่เราเสียบเชื่อมกับตัว ESP32 เช่น D14 และเปิด Mode ของ pin:D14 เป็น Analog Input(Read) 
+![image](https://user-images.githubusercontent.com/109753614/201913609-0c39baad-340e-4283-93b5-d3801cf39ce0.png)
 
+#
