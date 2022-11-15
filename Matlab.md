@@ -29,13 +29,32 @@ Connecting Matlab and ESP32 and process data in board to gui
  
 <img width="561" alt="Screenshot 2565-11-15 at 17 41 38" src="https://user-images.githubusercontent.com/109753614/201901624-a97fb9b1-1ada-4fd4-bccd-a5851764ccf4.png">
 
-ไปที่หน้า Apps > Arduino Explorer
+ไปที่หน้า Apps > Arduino Explorer และกด Manage Hardware
 
 <img width="1243" alt="Screenshot 2565-11-15 at 17 49 05" src="https://user-images.githubusercontent.com/109753614/201901664-31d1bbaa-d478-4f17-bde7-3e5826826c1a.png">
 
-
-
-![image](https://user-images.githubusercontent.com/109753614/199952963-8ff71f2f-08ef-4a43-b1f2-580954c01282.png)                       
-![image](https://user-images.githubusercontent.com/109753614/199953108-cd09ba33-e07c-4f89-a244-1fc809b3abe1.png)       
-จากนั้นเลือกที่อยู่ของไฟล์ แล้วกด Install
 #
+จากนั้น เมื่อกดแล้วจะมาที่หน้า Hardware Setup ให้เลือกที่ USB แบะกด Next
+
+![image](https://user-images.githubusercontent.com/109753614/201911675-76cb0211-a791-4f9b-be30-65a241e8f986.png)
+
+เลือก board เป็น ESP32-WROOM-DevKitC และเลือก Port ของบอร์ดที่ต้องการเชื่อม
+และกดที่ Program เพื่ออัพโหลด Library ESP32 board              
+
+![image](https://user-images.githubusercontent.com/109753614/201911715-d06abdbc-b136-4064-89f3-ff415bd12975.png)
+
+#
+เมื่ออัพโหลดเสร็จ
+ให้คลิก Test Connection โดย ESP32 จะมีให้กด BOOT ทุกครั้งที่ Test Connection และเมื่อ เชื่อมต่อสำเร็จให้กด NEXT                             
+
+![image](https://user-images.githubusercontent.com/109753614/201912458-59a57ecb-44f8-4294-b603-9874c683b31f.png)
+![image](https://user-images.githubusercontent.com/109753614/201912653-151802d4-6c93-4d17-8c5d-1f4d5505119d.png)
+
+จะไปที่หน้า Arduino Explorer ให้เลือกบอร์ด ESP32-WEOOM-DevKitC และเลือก Port ของตัวบอร์ดและตั้งชื่อ จากนั้นกด Confirm Parameters                            
+![image](https://user-images.githubusercontent.com/109753614/201912828-57119780-4136-4a82-8e50-525f9dea3485.png)
+
+และ Hardware ที่เราตั้งค่าก็จะมาปรากฏใน Arduino Explorer จากนั้นคลิปไปที่ Hardware ที่เราสร้างก็จะไปดูข้อมูลในบอร์ดของเราได้                     
+![image](https://user-images.githubusercontent.com/109753614/201913200-228773af-4c4c-40eb-ae42-7467d33e90e8.png)
+
+#
+
