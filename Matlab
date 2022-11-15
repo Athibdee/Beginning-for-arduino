@@ -5,8 +5,8 @@ Connecting Matlab and ESP32 and process data in board to gui
 ## 
 ไปที่หน้า Home > Add-ons ของโปรแกรม Matlab
 
-
 จากนั้นกด Get Hardware Support Packages
+<img width="246" alt="Screenshot 2565-11-15 at 11 15 46" src="https://user-images.githubusercontent.com/109753614/201825597-0746e15d-a515-4d3a-ad1b-e320429b4c12.png">
 
 #
 เมื่อทำการโหลดเสร็จ ให้ทำการ install Arduino IDE                                            
