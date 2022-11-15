@@ -50,14 +50,17 @@ Connecting Matlab and ESP32 and process data in board to gui
 ![image](https://user-images.githubusercontent.com/109753614/201912458-59a57ecb-44f8-4294-b603-9874c683b31f.png)
 ![image](https://user-images.githubusercontent.com/109753614/201912653-151802d4-6c93-4d17-8c5d-1f4d5505119d.png)
 
-จะไปที่หน้า Arduino Explorer ให้เลือกบอร์ด ESP32-WEOOM-DevKitC และเลือก Port ของตัวบอร์ดและตั้งชื่อ จากนั้นกด Confirm Parameters                            
+จะไปที่หน้า Arduino Explorer ให้เลือกบอร์ด ESP32-WEOOM-DevKitC และเลือก Port ของตัวบอร์ดและตั้งชื่อ จากนั้นกด Confirm Parameters  
+
 ![image](https://user-images.githubusercontent.com/109753614/201912828-57119780-4136-4a82-8e50-525f9dea3485.png)
 
-และ Hardware ที่เราตั้งค่าก็จะมาปรากฏใน Arduino Explorer จากนั้นคลิปไปที่ Hardware ที่เราสร้างก็จะไปดูข้อมูลในบอร์ดของเราได้                     
+และ Hardware ที่เราตั้งค่าก็จะมาปรากฏใน Arduino Explorer จากนั้นคลิปไปที่ Hardware ที่เราสร้างก็จะไปดูข้อมูลในบอร์ดของเราได้            
+
 ![image](https://user-images.githubusercontent.com/109753614/201913200-228773af-4c4c-40eb-ae42-7467d33e90e8.png)
 
 #
 จากนั้นเราก็จะสามารถดูข้อมูลตัว Module ที่เราใช้ได้โดยคลิก digital pin ที่เราเสียบเชื่อมกับตัว ESP32 เช่น D14 และเปิด Mode ของ pin:D14 เป็น Analog Input(Read) 
+
 ![image](https://user-images.githubusercontent.com/109753614/201913609-0c39baad-340e-4283-93b5-d3801cf39ce0.png)
 
 #
